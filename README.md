@@ -1,4 +1,7 @@
 # TermuxLearn
+![GitHub stars](https://img.shields.io/github/stars/Xsaw-Dev/TermuxLearns)
+![License](https://img.shields.io/github/license/Xsaw-Dev/TermuxLearns)
+![GitHub last commit](https://img.shields.io/github/last-commit/Xsaw-Dev/TermuxLearns)
 📚 TermuxLearns
 
 «Learn Termux from scratch with step-by-step tutorials, practical examples, and real-world projects.»
