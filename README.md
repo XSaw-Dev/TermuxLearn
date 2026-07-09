@@ -1,7 +1,12 @@
 # TermuxLearn
-![GitHub stars](https://img.shields.io/github/stars/Xsaw-Dev/TermuxLearn)
-![License](https://img.shields.io/github/license/Xsaw-Dev/TermuxLearn)
-![GitHub last commit](https://img.shields.io/github/last-commit/Xsaw-Dev/TermuxLearn)
+<p align="center"><img src="https://img.shields.io/github/stars/Xsaw-Dev/TermuxLearn?style=for-the-badge" />
+<img src="https://img.shields.io/github/forks/Xsaw-Dev/TermuxLearn?style=for-the-badge" />
+<img src="https://img.shields.io/github/watchers/Xsaw-Dev/TermuxLearn?style=for-the-badge" />
+<img src="https://img.shields.io/github/issues/Xsaw-Dev/TermuxLearn?style=for-the-badge" />
+<img src="https://img.shields.io/github/issues-pr/Xsaw-Dev/TermuxLearn?style=for-the-badge" />
+<img src="https://img.shields.io/github/last-commit/Xsaw-Dev/TermuxLearn?style=for-the-badge" />
+<img src="https://img.shields.io/github/repo-size/Xsaw-Dev/TermuxLearn?style=for-the-badge" />
+<img src="https://img.shields.io/github/license/Xsaw-Dev/TermuxLearn?style=for-the-badge" /></p>
 
 📚 TermuxLearns
 
