@@ -1,46 +1,114 @@
 # TermuxLearn
-<p align="center"><img src="https://img.shields.io/github/stars/Xsaw-Dev/TermuxLearn?style=for-the-badge" />
-<img src="https://img.shields.io/github/forks/Xsaw-Dev/TermuxLearn?style=for-the-badge" />
-<img src="https://img.shields.io/github/watchers/Xsaw-Dev/TermuxLearn?style=for-the-badge" />
-<img src="https://img.shields.io/github/issues/Xsaw-Dev/TermuxLearn?style=for-the-badge" />
-<img src="https://img.shields.io/github/issues-pr/Xsaw-Dev/TermuxLearn?style=for-the-badge" />
-<img src="https://img.shields.io/github/last-commit/Xsaw-Dev/TermuxLearn?style=for-the-badge" />
-<img src="https://img.shields.io/github/repo-size/Xsaw-Dev/TermuxLearn?style=for-the-badge" />
-<img src="https://img.shields.io/github/license/Xsaw-Dev/TermuxLearn?style=for-the-badge" /></p>
+📚 TermuxLearn
 
-📚 TermuxLearns
-
-«Learn Termux from scratch with step-by-step tutorials, practical examples, and real-world projects.»
+<p align="center">
+  <img src="https://img.shields.io/github/stars/XSaw-Dev/TermuxLearn?style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/XSaw-Dev/TermuxLearn?style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/XSaw-Dev/TermuxLearn?style=for-the-badge">
+  <img src="https://img.shields.io/github/license/XSaw-Dev/TermuxLearn?style=for-the-badge">
+  <img src="https://img.shields.io/github/last-commit/XSaw-Dev/TermuxLearn?style=for-the-badge">
+</p><p align="center">
+  <b>📖 Open-source Termux learning resources for beginners and advanced users.</b>
+</p><p align="center">
+Learn • Practice • Build • Share 🚀
+</p>---
 
 🚀 About
 
-TermuxLearns is an open-source project dedicated to helping beginners and advanced users learn Termux, Linux, and command-line tools.
+TermuxLearn is an open-source documentation project designed to help anyone learn Termux from the basics to advanced topics.
 
-This repository contains easy-to-follow tutorials, practical guides, and useful scripts for daily development.
+This repository provides step-by-step tutorials, practical examples, and real-world use cases covering Linux, Git, Python, Node.js, SSH, VPS, automation, and many other command-line tools.
 
-📖 Topics
+Whether you're just getting started or already experienced, TermuxLearn aims to become a complete learning resource.
 
-- 📱 Installing Termux
-- 📦 Package Manager (pkg & apt)
-- 🐍 Python
-- 🟩 Node.js
+---
+
+✨ Features
+
+- 📱 Beginner-friendly tutorials
+- 💻 Linux command-line basics
+- 📦 Package management
+- 🐍 Python programming
+- 🟩 Node.js development
 - 🌐 Git & GitHub
 - 🔑 SSH
-- 💻 VPS
-- 🤖 Telegram Bot
-- 📂 Linux Commands
-- 📝 Nano
-- 🛠️ Bash Scripting
-- 📚 Troubleshooting
+- ☁️ VPS management
+- 🤖 Telegram Bot Development
+- 📝 Bash scripting
+- ⚙️ Automation
+- 🛠️ Troubleshooting guides
+- 📚 Regularly updated
 
-⭐ Contributing
+---
+
+📚 Documentation
+
+Category Status
+Installing Termux| 🚧
+Storage Permission| 🚧
+Package Manager| 🚧
+Linux Commands| 🚧
+Git & GitHub| 🚧
+Python| 🚧
+Node.js| 🚧
+SSH| 🚧
+VPS| 🚧
+Nano| 🚧
+Bash Script| 🚧
+Telegram Bot| 🚧
+Troubleshooting| 🚧
+
+---
+
+📂 Repository Structure
+
+TermuxLearn/
+│
+├── README.md
+├── LICENSE
+├── .gitignore
+├── docs/
+├── scripts/
+└── images/
+
+---
+
+🎯 Goals
+
+- Create a complete Termux learning repository.
+- Help beginners understand Linux fundamentals.
+- Provide practical examples instead of theory only.
+- Keep tutorials simple and easy to follow.
+- Build an open-source learning community.
+
+---
+
+🤝 Contributing
 
 Contributions are welcome!
 
-Feel free to open an Issue or submit a Pull Request to improve this project.
+If you find an error, have an improvement, or want to add new tutorials, feel free to open an Issue or submit a Pull Request.
+
+---
 
 📄 License
 
 This project is licensed under the MIT License.
 
-Made with ❤️ for the Termux community.
+---
+
+⭐ Support
+
+If you find this repository useful:
+
+- ⭐ Star this repository
+- 🍴 Fork it
+- 📢 Share it with others
+- ❤️ Help improve the documentation
+
+---
+
+<p align="center">
+Made with ❤️ by <b>XSaw-Dev</b>Building the future, one command at a time.
+
+</p>
